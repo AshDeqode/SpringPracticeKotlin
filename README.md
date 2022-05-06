@@ -9,6 +9,9 @@ There are 5 simple CRUD operations :
 5)   ```deleteFriendship```: Delete a friend from your lists of friends thus ending a friendship
 
 Framework Used : Spring-Boot
+
 Language Used  : Kotlin
+
 Output Format  : JSON
-Layers Built   : COntroller, Service, Repository and a separate model
+
+Layers Built   : Controller, Service, Repository and a separate model
