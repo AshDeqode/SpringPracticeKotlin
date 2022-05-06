@@ -15,3 +15,7 @@ Language Used  : Kotlin
 Output Format  : JSON
 
 Layers Built   : Controller, Service, Repository and a separate model
+
+DB used : Mongo DB
+
+Port : This application runs on port 27017 and host is "localhost"
